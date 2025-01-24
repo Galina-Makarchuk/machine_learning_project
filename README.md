@@ -1,4 +1,4 @@
-# machine_learning_project
+# Machine Learning Project
 Developing a model that recommends the mobile plan most tailored to user's needs.
 
 __Description:__ \
