@@ -34,3 +34,9 @@ __Results:__
 * Examined models' quality with a testing data set.
 * Evaluated models' performance with metrics.
 * Chose the best model for this classification task.
+
+__Screenshots from the project:__
+
+<img width="919" alt="Screenshot 2025-01-27 at 12 43 19" src="https://github.com/user-attachments/assets/a12822a2-bdcd-464c-86d6-26dccd0d80f0" />
+
+<img width="983" alt="Screenshot 2025-01-27 at 12 42 25" src="https://github.com/user-attachments/assets/3d6d5300-ce71-482c-b9bb-f53d477acbfe" />
