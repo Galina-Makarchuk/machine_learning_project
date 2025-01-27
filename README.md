@@ -1,5 +1,5 @@
 # Machine Learning Project
-Developing a model that recommends the mobile plan most tailored to user's needs.
+Developing a model that recommends a mobile plan most tailored to user's needs.
 
 __Description:__ \
 A mobile carrier has found out that many of their subscribers use legacy plans. \
